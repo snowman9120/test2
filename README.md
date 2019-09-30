@@ -1,2 +1,1 @@
-# test2
-Test2
+This is the test 2 repository for node.js practice
